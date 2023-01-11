@@ -1,0 +1,6 @@
+# Allowing list
+/*
+!/components/
+!/lib/
+!/pages/
+!next-env.d.ts
